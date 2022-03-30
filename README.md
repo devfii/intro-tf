@@ -15,8 +15,15 @@ Creating the resource
 terraform init
 ```
 
-```terraform plan```
+```
+terraform plan
+```
 
-```terraform apply```
-```terraform destroy```
+```
+terraform apply
+```
+
+```
+terraform destroy
+```
 
