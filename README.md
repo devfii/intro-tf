@@ -12,4 +12,7 @@ The HCL code
 Creating the resource
 
 `terraform init`
+`terraform plan`
+`terraform apply`
+`terraform destroy`
 
