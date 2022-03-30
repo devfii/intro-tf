@@ -9,7 +9,8 @@ The HCL code
 
 #ami and type
 
-Creating the resource
+## Creating the resource
+
 Initialize the directory
 ```
 terraform init
