@@ -10,19 +10,19 @@ The HCL code
 #ami and type
 
 Creating the resource
-
+Initialize the directory
 ```
 terraform init
 ```
-
+Preview changes to your infrastructure
 ```
 terraform plan
 ```
-
+Apply changes to your infrastructure
 ```
 terraform apply
 ```
-
+Remove resources managed by your Terraform configuration
 ```
 terraform destroy
 ```
