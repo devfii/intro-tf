@@ -8,3 +8,8 @@ The HCL code
 #profile
 
 #ami and type
+
+Creating the resource
+
+`terraform init`
+
