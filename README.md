@@ -6,6 +6,9 @@ The terraform block defines version constraints for the provider and Terraform C
 The code uses an AWS provider.It defines the profile and region to deploy resources to.
 The code also defines the AMI and instance type of the EC2 instance to be created
 
+## Installing Terraform
+
+
 ## Creating the resource
 
 Initialize the directory
